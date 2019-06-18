@@ -1,0 +1,6 @@
+README
+
+The program's utilizes BST to  store, retrieve, delete and display a list of 
+games and their peripheral information from external file.
+In addition, the user will be able to insert, and update the list with the games. 
+The main concept of the assignment is the same as for Program # 3.
